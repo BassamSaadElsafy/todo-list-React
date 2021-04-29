@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/BassamSaadElsafy/todo-list-React/static/css/main.5586ae14.chunk.css",
-    "main.js": "/BassamSaadElsafy/todo-list-React/static/js/main.a59e5383.chunk.js",
-    "main.js.map": "/BassamSaadElsafy/todo-list-React/static/js/main.a59e5383.chunk.js.map",
-    "runtime-main.js": "/BassamSaadElsafy/todo-list-React/static/js/runtime-main.e732c64d.js",
-    "runtime-main.js.map": "/BassamSaadElsafy/todo-list-React/static/js/runtime-main.e732c64d.js.map",
-    "static/js/2.7cd2f931.chunk.js": "/BassamSaadElsafy/todo-list-React/static/js/2.7cd2f931.chunk.js",
-    "static/js/2.7cd2f931.chunk.js.map": "/BassamSaadElsafy/todo-list-React/static/js/2.7cd2f931.chunk.js.map",
-    "static/js/3.7fd3d341.chunk.js": "/BassamSaadElsafy/todo-list-React/static/js/3.7fd3d341.chunk.js",
-    "static/js/3.7fd3d341.chunk.js.map": "/BassamSaadElsafy/todo-list-React/static/js/3.7fd3d341.chunk.js.map",
-    "index.html": "/BassamSaadElsafy/todo-list-React/index.html",
-    "static/css/main.5586ae14.chunk.css.map": "/BassamSaadElsafy/todo-list-React/static/css/main.5586ae14.chunk.css.map",
-    "static/js/2.7cd2f931.chunk.js.LICENSE.txt": "/BassamSaadElsafy/todo-list-React/static/js/2.7cd2f931.chunk.js.LICENSE.txt"
+    "main.css": "/BassamSaadElsafy/todo-list-demo/static/css/main.5586ae14.chunk.css",
+    "main.js": "/BassamSaadElsafy/todo-list-demo/static/js/main.a59e5383.chunk.js",
+    "main.js.map": "/BassamSaadElsafy/todo-list-demo/static/js/main.a59e5383.chunk.js.map",
+    "runtime-main.js": "/BassamSaadElsafy/todo-list-demo/static/js/runtime-main.48b1d241.js",
+    "runtime-main.js.map": "/BassamSaadElsafy/todo-list-demo/static/js/runtime-main.48b1d241.js.map",
+    "static/js/2.7cd2f931.chunk.js": "/BassamSaadElsafy/todo-list-demo/static/js/2.7cd2f931.chunk.js",
+    "static/js/2.7cd2f931.chunk.js.map": "/BassamSaadElsafy/todo-list-demo/static/js/2.7cd2f931.chunk.js.map",
+    "static/js/3.7fd3d341.chunk.js": "/BassamSaadElsafy/todo-list-demo/static/js/3.7fd3d341.chunk.js",
+    "static/js/3.7fd3d341.chunk.js.map": "/BassamSaadElsafy/todo-list-demo/static/js/3.7fd3d341.chunk.js.map",
+    "index.html": "/BassamSaadElsafy/todo-list-demo/index.html",
+    "static/css/main.5586ae14.chunk.css.map": "/BassamSaadElsafy/todo-list-demo/static/css/main.5586ae14.chunk.css.map",
+    "static/js/2.7cd2f931.chunk.js.LICENSE.txt": "/BassamSaadElsafy/todo-list-demo/static/js/2.7cd2f931.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e732c64d.js",
+    "static/js/runtime-main.48b1d241.js",
     "static/js/2.7cd2f931.chunk.js",
     "static/css/main.5586ae14.chunk.css",
     "static/js/main.a59e5383.chunk.js"
