@@ -1,5 +1,8 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
 body{
-  background-color: #154278;
+  background-color: #ffffff;
+  /* background-image: url("./home1.jpg"); */
+
 }
 
 .App{
